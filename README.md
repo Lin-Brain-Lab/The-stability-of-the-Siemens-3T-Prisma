@@ -1,2 +1,2 @@
 # Stability test results on Siemens Prisma 3T
-Here, I will publish the weekly stability test results performed on Prisma scanner
+Here, the weekly stability test results performed on the Siemens 3T Prisma scanner will published.
