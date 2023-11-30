@@ -4,4 +4,6 @@ Here, the weekly stability test results performed on the Siemens 3T Prisma scann
 
 Methodology: based on the approach presented by Robert M. Weisskoff, 1996, MRM.
 
-Scans are performed on a manufacturer's provided cylindrical dopped water phantom
+Scans are performed on a manufacturer's provided cylindrical dopped water phantom.
+
+Numbers are normalized.
