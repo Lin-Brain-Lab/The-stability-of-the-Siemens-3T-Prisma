@@ -1,4 +1,4 @@
-# Stability test of the Siemens Prisma 3T	
+# Stability test of the Siemens 3T Prisma and petMRI	
 
 For a detailed description of the process, please refer to the wiki page on the top menu. However, monthly averaged stability results for 
 (1) Prisma can be checked in:
