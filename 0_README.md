@@ -4,4 +4,4 @@ For a detailed description of the process, please refer to the wiki page on the 
 
 (1) Prisma: https://raw.githack.com/Lin-Brain-Lab/The-stability-of-the-Siemens-3T-Prisma-and-petMRI/main/1_index1.html	
 
-(2) petMRI:
+(2) petMRI: https://raw.githack.com/Lin-Brain-Lab/The-stability-of-the-Siemens-3T-Prisma-and-petMRI/main/2_index2.html
