@@ -1,6 +1,6 @@
 # Stability test of the Siemens 3T Prisma and petMRI	
 
-Monthly averaged stability test results can be found for:
+Weekly stability test results can be found for:
 
 (1) Prisma: https://raw.githack.com/Lin-Brain-Lab/The-stability-of-the-Siemens-3T-Prisma-and-petMRI/main/1_index1.html	
 
