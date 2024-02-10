@@ -6,4 +6,4 @@ Weekly stability test results can be found for:
 
 (2) [PET-MRI](https://raw.githack.com/Lin-Brain-Lab/The-stability-of-the-Siemens-3T-Prisma-and-petMRI/main/2_index2.html)
 
-For more information about the acquisition process, wiki can be checked!
+Check [wiki](https://github.com/Lin-Brain-Lab/The-stability-of-the-Siemens-3T-Prisma-and-petMRI/wiki) for more information about the acquisition process.
