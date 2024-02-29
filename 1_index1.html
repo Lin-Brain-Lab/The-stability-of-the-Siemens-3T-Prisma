@@ -26,7 +26,7 @@
 
                 // Check if parsedData is not undefined before creating the figure
                 if (parsedData) {
-                    const figure = createPlotlyFigure(parsedData);
+                    const figure = createPlotlyFigure(parsedData, color);
                     Plotly.newPlot('plotly-figure', figure);
                 } else {
                     console.error('Error parsing CSV data.');
